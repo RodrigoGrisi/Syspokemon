@@ -1,0 +1,42 @@
+body{
+    background: yellow;
+    font: normal 15px arial;
+}
+
+header{
+    text-align: center;
+    
+}
+#logo{
+    width: 560px;
+    align-content: center;
+    padding: 20px;
+}
+
+section{
+    font: normal 15px arial;
+    box-shadow: 5px 5px 10px black;
+    border-radius:15px;
+    margin: auto;
+    background: white;
+    width: 550px;
+    height: 420px;
+    text-align: center;
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 15px;
+    margin-top: 10px;
+}
+
+#components{
+   width: auto;
+}
+
+footer{
+    text-align: center;
+    color: rgb(223, 103, 6);
+    text-shadow: 2px 2px 8px black;
+}
